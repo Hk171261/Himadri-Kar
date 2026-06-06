@@ -31,7 +31,7 @@
 - 📍 Based in **Bangalore, India**
 - 💬 Ask me about **Python, SQL, Machine Learning, Tableau & Generative AI**
 - 🤝 How to reach me: [LinkedIn](https://www.linkedin.com/in/himadri-kar)
-- ⚡ Fun fact: *I bridge the gap between healthcare domain expertise and modern data science!*
+- ⚡ Fun fact: *My browser always has 10+ tabs open — all about LLMs, GenAI, and the latest ML research!*
 
 ---
 
